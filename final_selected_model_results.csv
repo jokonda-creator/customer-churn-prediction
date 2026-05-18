@@ -1,0 +1,2 @@
+Model,Threshold,Accuracy,Precision,Recall,F1-score,True Negatives,False Positives,False Negatives,True Positives
+XGBoost,0.35,0.7785663591199432,0.5648535564853556,0.7219251336898396,0.6338028169014085,827,208,104,270

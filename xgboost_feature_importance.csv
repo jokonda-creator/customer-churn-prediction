@@ -1,0 +1,58 @@
+Feature,Importance
+Contract_Month-to-month,0.22112244
+Month-to-Month Contract_No,0.20739494
+Internet Service_Fiber optic,0.10073098
+Online Security_No,0.03330267
+Month-to-Month Contract_Yes,0.033178814
+Dependents_Yes,0.029740676
+Dependents_No,0.023315342
+Contract_Two year,0.021449225
+Payment Method_Electronic check,0.019330591
+Tenure Group_New Customer,0.016255595
+Tenure Months,0.014543439
+Monthly Charge per Service,0.014075033
+Streaming Movies_Yes,0.012270824
+Paperless Billing_Yes,0.011749072
+Multiple Lines_Yes,0.010717848
+Streaming TV_Yes,0.010477315
+Tech Support_No,0.010453528
+Paperless Billing_No,0.01031944
+Tenure Group_Loyal Customer,0.009919564
+Multiple Lines_No,0.0091839805
+Phone Service_No,0.008977058
+Streaming Movies_No,0.008945882
+Streaming TV_No,0.008766376
+Contract_One year,0.007697055
+Tenure Group_Established Customer,0.0075574224
+Has Support Services_No,0.0075283195
+Online Backup_No,0.007482699
+Senior Citizen_Yes,0.007467209
+Internet Service_DSL,0.0072801574
+Partner_Yes,0.0070473035
+Monthly Charges,0.006942975
+Total Charges,0.0065257447
+Partner_No,0.006297123
+Has Support Services_Yes,0.0061277333
+Device Protection_Yes,0.0061149667
+Payment Method_Credit card (automatic),0.005807763
+Service Count,0.0056750174
+Payment Method_Mailed check,0.0056044944
+CLTV,0.0055840653
+Gender_Female,0.0051431973
+Online Backup_Yes,0.005063937
+Senior Citizen_No,0.005026595
+Multiple Lines_No phone service,0.0048546777
+Gender_Male,0.0048350096
+Online Security_Yes,0.004819232
+Tech Support_Yes,0.004606099
+Device Protection_No,0.004182306
+Payment Method_Bank transfer (automatic),0.004001734
+Tenure Group_Developing Customer,0.003387765
+Phone Service_Yes,0.0011187913
+Internet Service_No,0.0
+Online Security_No internet service,0.0
+Streaming Movies_No internet service,0.0
+Online Backup_No internet service,0.0
+Streaming TV_No internet service,0.0
+Device Protection_No internet service,0.0
+Tech Support_No internet service,0.0

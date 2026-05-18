@@ -1,5 +1,3 @@
-# customer-churn-prediction
-ML/CRISP-DIM/Software Engineering
 # Customer Churn Prediction System Using Machine Learning
 
 ## Project Overview
@@ -177,5 +175,6 @@ Notes
 This project is an academic prototype. The Streamlit dashboard runs locally and is not deployed to a live production server. The results should be interpreted as predictive decision-support outputs rather than guaranteed customer behaviour.
 
 Feature importance results should be interpreted as associations with model predictions, not as proof of causation.
+
 
 
